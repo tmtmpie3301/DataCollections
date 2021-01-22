@@ -1,4 +1,4 @@
 # DataCollections
 Use for Research in Master course. 
 
-Using process is sitaniaruyo
+Using process is as follows
